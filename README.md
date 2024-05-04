@@ -1,6 +1,8 @@
 # Python-Fundamentals-Sprint-1
 Congratulations! You're about to start working on your first project. 
 
+*English version will be posted soon*
+
 # **Summary:**
 
 •	**Error handling:** with try-except.
